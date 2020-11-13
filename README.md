@@ -1,11 +1,16 @@
-WP-Starter 6.4.3
+RedBoto 1.0.0
 ====================
+WPForge child theme
 
-### Updated August 21, 2017
+### Updated November, 13 2020
 
-WP-Starter is a [WordPress child theme](http://themeawesome.com/wordpress-child-theme) developed for use with [WP-Forge](http://themeawesome.com/responsive-wordpress-theme/). If you need more information about WordPress Child Themes or how to use them correctly, please view the [WordPress Codex section on child themes](http://codex.wordpress.org/Child_Themes)
+RedBoto is a WordPress theme made for theredboto.com project.
+It uses WPForge as main theme implementing a simple video-related theme
+with a black background and red typography.
 
-### WP-Forge Support
+RedBoto is based on [Foundation for Sites](http://foundation.zurb.com/).
+
+### Support
 If you need help with implementation or if you run into issues, please [post your questions/issues](https://github.com/tsquez/wp-starter/issues)
 
 Installation
@@ -16,11 +21,11 @@ Installation
 * Click Appearance -> Customize to start modifying your theme.
 
 ### License
-WP-Starter is GNU General Public License v2 or later - http://www.gnu.org/licenses/gpl-2.0.html
+RedBoto is GNU General Public License v2 or later - http://www.gnu.org/licenses/gpl-2.0.html
 WordPress is GPLv2 - http://www.gnu.org/licenses/gpl-2.1.html
 
 This means WP-Starter is completely free to use and modify as you see fit. I hope you use it to learn something new, make something cool, have fun, and share what you've learned with others.
 
-ThemeAWESOME
+Pepperdesign
 =============
-[ThemeAWESOME.com](https://themeawesome.com), a site focused on building WordPress themes with [Foundation for Sites](http://foundation.zurb.com/).
+[Pepperdesign](https://pepperdesign.us) is a webdesign company. 
